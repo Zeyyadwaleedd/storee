@@ -1,0 +1,39 @@
+
+/* Start Navbar Style */
+.navbar .collapse ul li a{
+    color:#fff;
+}
+
+/* Start Home Page */
+
+.header{
+    height: 100vh;
+    width: 100%;
+    background-image: url("../../public/images/Blog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+.header .DESC{
+    margin: 80px 0 0 150px;
+}
+
+.header .DESC h1{
+    width: 800px;
+    color: #fff;
+    font-size: 50px;
+}
+/* Start Login Style */
+
+.Login{
+    width: 100%;
+    height: 100vh;
+    padding: 1px;
+    background-image: url("../../public/images/Login/Login.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Login .LO{
+    margin-top: 3rem !important;
+}

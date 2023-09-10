@@ -1,0 +1,80 @@
+{
+  "Products": [
+    {
+      "title": "Bag",
+      "price": 200,
+      "image": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Travel-and-Suitcases.PNG/Travel_Bag_Transparent_PNG_Clip_Art_Image.png?m=1470711301",
+      "desc": "This is a Bag",
+      "id": 1
+    },
+    {
+      "title": "T-shirt",
+      "price": 25,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/RI/NW/BQ/1756364/cricket-jersey-t-shirt.jpg",
+      "desc": "This T-shir is Very Good",
+      "id": 4
+    },
+    {
+      "title": "Test",
+      "price": 66,
+      "image": "https://images.pexels.com/photos/2977304/pexels-photo-2977304.jpeg?cs=srgb&dl=pexels-stanislav-kondratiev-2977304.jpg&fm=jpg",
+      "desc": "This is Test Product",
+      "id": 6
+    }
+  ],
+  "Users": [
+    {
+      "Username": "Admin",
+      "Phone": "01095076345",
+      "Email": "ali.ahmed09044@gmail.com",
+      "id": "Admin"
+    },
+    {
+      "Username": "Admins",
+      "Phone": "01095076345",
+      "Email": "gamalyouns1998@gmail.com",
+      "id": "Admins"
+    },
+    {
+      "Username": "Mohmmed",
+      "Phone": "01020422954",
+      "Email": "whfex@targetlines.com",
+      "id": "Mohmmed"
+    },
+    {
+      "Username": "Ali",
+      "Phone": "0109507345",
+      "Email": "ziadwaleed.zz76434z@gmail.com",
+      "id": "Ali"
+    }
+  ],
+  "Cart": [
+    {
+      "title": "Test",
+      "image": "https://images.pexels.com/photos/2977304/pexels-photo-2977304.jpeg?cs=srgb&dl=pexels-stanislav-kondratiev-2977304.jpg&fm=jpg",
+      "price": 66,
+      "Quntyiy": "3",
+      "desc": "This is Test Product",
+      "Total": 198,
+      "id": 1
+    },
+    {
+      "title": "Bag",
+      "image": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Travel-and-Suitcases.PNG/Travel_Bag_Transparent_PNG_Clip_Art_Image.png?m=1470711301",
+      "price": 200,
+      "Quntyiy": "3",
+      "desc": "This is a Bag",
+      "Total": 600,
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "image": "https://images.pexels.com/photos/2977304/pexels-photo-2977304.jpeg?cs=srgb&dl=pexels-stanislav-kondratiev-2977304.jpg&fm=jpg",
+      "price": 66,
+      "Quntyiy": "2",
+      "desc": "This is Test Product",
+      "Total": 132,
+      "id": 3
+    }
+  ]
+}
